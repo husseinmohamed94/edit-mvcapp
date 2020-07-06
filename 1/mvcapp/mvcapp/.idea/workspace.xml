@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cdd5283-eb89-4310-8d1d-e5382dfb08e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1afVfxv3DSDyuBj9KPQuIVyn0Mr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/controllers" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mvcapp\app\lib\template" />
+      <recent name="C:\xampp\htdocs\mvcapp\app" />
+      <recent name="C:\xampp\htdocs\mvcapp\app\controllers\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mvcapp\app\models" />
+      <recent name="C:\xampp\htdocs\mvcapp\app\views" />
+      <recent name="C:\xampp\htdocs\mvcapp\app\languages\en" />
+      <recent name="C:\xampp\htdocs\mvcapp\app\languages\ar" />
+      <recent name="C:\xampp\htdocs\mvcapp\app\controllers" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cdd5283-eb89-4310-8d1d-e5382dfb08e0" name="Default Changelist" comment="" />
+      <created>1587126741827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587126741827</updated>
+      <workItem from="1587126743572" duration="1230000" />
+      <workItem from="1587128842056" duration="645000" />
+      <workItem from="1587132303017" duration="1794000" />
+      <workItem from="1587135005130" duration="37463000" />
+      <workItem from="1587210528216" duration="26554000" />
+      <workItem from="1587242907661" duration="221000" />
+      <workItem from="1587244020978" duration="936000" />
+      <workItem from="1587489331388" duration="5516000" />
+      <workItem from="1587495348899" duration="8551000" />
+      <workItem from="1587503982212" duration="798000" />
+      <workItem from="1587580107727" duration="4599000" />
+      <workItem from="1587589030658" duration="1059000" />
+      <workItem from="1587591819131" duration="1336000" />
+      <workItem from="1587667916883" duration="1666000" />
+      <workItem from="1587761993518" duration="3043000" />
+      <workItem from="1587835477656" duration="16666000" />
+      <workItem from="1587856285302" duration="2603000" />
+      <workItem from="1587917743736" duration="14144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587842339024">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1587842339024" />
+    <state x="291" y="46" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587126822362">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="291" y="46" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1587126822362" />
+    <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1587226015639">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1360.728@0.0.1360.728" timestamp="1587226015639" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1587855933005">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1587855933005" />
+    <state x="149" y="196" width="411" height="369" key="NewPhpClassDialog" timestamp="1587932385574">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="149" y="196" width="411" height="369" key="NewPhpClassDialog/0.0.1360.728@0.0.1360.728" timestamp="1587932385574" />
+    <state x="232" y="313" key="NewPhpFileDialog" timestamp="1587496162507">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="232" y="313" key="NewPhpFileDialog/0.0.1360.728@0.0.1360.728" timestamp="1587496162507" />
+    <state x="132" y="11" key="SettingsEditor" timestamp="1587842132721">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="132" y="11" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1587842132721" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587917759443">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1587917759443" />
+    <state x="336" y="162" key="run.anything.popup" timestamp="1587837640480">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1587837640480" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587842238496">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1587842238496" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/lib/sessionmanager.php</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/lib/frontcontroller.php</url>
+          <line>41</line>
+          <properties>
+            <option name="className" value="\PHPMVC\LIB\FrontController" />
+            <option name="methodName" value="dispatch" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
